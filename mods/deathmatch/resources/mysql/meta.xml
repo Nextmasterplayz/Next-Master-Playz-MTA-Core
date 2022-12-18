@@ -1,0 +1,8 @@
+<meta>
+        <info author="Next Master Mysql" type="script" name="MySQL"/>
+		
+		<script src="connection.lua" type="server" />
+		<script src="data.lua" type="server" />
+
+		<export function="getMySQLC" type="server"/>
+</meta>
